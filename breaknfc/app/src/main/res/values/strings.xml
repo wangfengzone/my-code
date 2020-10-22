@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">格林早餐</string>
+    <string name="green_in_tree_breakfast_verify">格林酒店早餐核销</string>
+    <string name="hotel_code">酒店编号</string>
+    <string name="login">登录</string>
+    <string name="have_new_version">已检测到有新版本</string>
+    <string name="download_update">下载更新</string>
+    <string name="please_input_hotel_code">请输入酒店编号</string>
+    <string name="please_input_verify_code">请输入验证码</string>
+    <string name="verify_code_send_to_hotel_manager">验证码将发送到店长手机上</string>
+    <string name="get_verify_code">获取验证码</string>
+    <string name="bind_mc">设备绑定</string>
+    <string name="banner">banner</string>
+    <string name="version">v1.1</string>
+    <string name="card">卡号</string>
+    <string name="verify_history">刷卡履历</string>
+</resources>
